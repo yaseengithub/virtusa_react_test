@@ -1,0 +1,29 @@
+.login-area {
+    position: fixed;
+    top: 30%;
+    left: 40%;
+}
+
+.bg-dark {
+    background-color: #343a40!important;
+}
+.nav-link{
+    color: #FFFFFF !important;
+}
+.headers{
+    margin-bottom: 15px;
+    display: flex;
+    padding: 15px;
+    color: #FFFFFF;
+}
+.logo-section{
+    flex: 1
+}
+
+.actions{
+    text-align: center;
+}
+
+.actions i{
+    cursor: pointer;
+}

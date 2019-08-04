@@ -1,0 +1,13 @@
+{
+  "name": "product-api",
+  "version": "1.0.0",
+  "description": "Vertusa Test",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "shaik.yasinbasha47@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
