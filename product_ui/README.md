@@ -18,7 +18,7 @@ We have created our own Grid Component part of development.<br>
 Columns are configered in this grid and Data will be passing as props.<br><br>
 
 For configure columns you can looking in to below JS file<br>
-productcolumns.js in Compoments/products folder
+[https://github.com/yaseengithub/virtusa_react_test/blob/master/product_ui/src/components/product/productcolumns.js](productcolumns.js) in Compoments/products folder
 
 
 ### Form Builder Component
@@ -26,5 +26,5 @@ productcolumns.js in Compoments/products folder
 We have created our own Form Builder Component part of development.<br>
 Fields and Data will be passing as props<br><br>
 
-Same JS(productcolumns.js) file can be utilized as form builder<br>
+Same JS([https://github.com/yaseengithub/virtusa_react_test/blob/master/product_ui/src/components/product/productcolumns.js](productcolumns.js)) file can be utilized as form builder<br>
 
