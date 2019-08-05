@@ -14,17 +14,17 @@ You will also see any lint errors in the console.
 
 ### Grid Component
 
-We have created our own Grid Component part of development
-Columns are configered in this grid and Data will be passing as props 
+We have created our own Grid Component part of development.<br>
+Columns are configered in this grid and Data will be passing as props.<br><br>
 
-For configure columns you can looking in to below JS file
+For configure columns you can looking in to below JS file<br>
 productcolumns.js in Compoments/products folder
 
 
 ### Form Builder Component
 
-We have created our own Form Builder Component part of development
-Fields and Data will be passing as props 
+We have created our own Form Builder Component part of development.<br>
+Fields and Data will be passing as props<br><br>
 
-Same JS(productcolumns.js) file can be utilized as form builder  
+Same JS(productcolumns.js) file can be utilized as form builder<br>
 
